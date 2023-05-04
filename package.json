@@ -1,5 +1,5 @@
 {
-  "name": "@quantiply/xts-interactive-api",
+  "name": "@quantiply/xts-interactive-api-v2-pro",
   "version": "3.0.5",
   "description": "The official JS client library for the Symphony Fintech Trading API's",
   "main": "./lib/",
