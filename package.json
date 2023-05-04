@@ -1,6 +1,6 @@
 {
   "name": "@quantiply/xts-interactive-api-v2-pro",
-  "version": "3.0.5",
+  "version": "1.0.0",
   "description": "The official JS client library for the Symphony Fintech Trading API's",
   "main": "./lib/",
   "keywords": [
