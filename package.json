@@ -1,7 +1,7 @@
 {
-  "name": "@quantiply/xts-interactive-api-v2-pro",
+  "name": "@quantiply/xts-interactive-api-pro",
   "version": "1.0.0",
-  "description": "The official JS client library for the Symphony Fintech Trading API's",
+  "description": "XTS interactive pro sdk",
   "main": "./lib/",
   "keywords": [
     "SymphonyFintech",
@@ -13,7 +13,6 @@
     "Interactive",
     "ClientApp"
   ],
-  "author": "Symphony Fintech Solutions Pvt. Ltd.",
   "dependencies": {
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
@@ -22,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunilgautam/xts-interactive-nodeJS-api-v2"
+    "url": "https://github.com/quantiply-tech/xts-interactive-nodeJS-api-v2-pro"
   },
   "directories": {
     "lib": "lib"
